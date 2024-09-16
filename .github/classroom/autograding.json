@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Demo",
+      "setup": "javac Demo.java",
+      "run": "java Demo",
+      "input": "",
+      "output": "Hello World!!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
